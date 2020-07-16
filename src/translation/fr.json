@@ -1,0 +1,21 @@
+{
+  "formData": {
+    "firstName": "Prenom",
+    "lastName" : "Nom",
+    "phone" : "Numero de Telphone",
+    "address" : "Adresse",
+    "emailAdress": "Adresse mail",
+    "country" : "Pays",
+    "title" : "Titre",
+    "city" : "Ville",
+    "street" : "Rue",
+
+    "personal" : "Donnees personnelles",
+    "contactability" : "Contact"
+  },
+  "static": {
+    "previous" : "precedant",
+    "next" : "suivant",
+    "success" : "Enregistrement confirmee"
+  }
+}

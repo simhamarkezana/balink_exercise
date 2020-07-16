@@ -1,0 +1,21 @@
+{
+  "formData": {
+    "firstName": "First Name",
+    "lastName" : "Last Name",
+    "phone" : "Phone",
+    "address" : "Address",
+    "emailAdress": "Email Adress",
+    "country" : "Country",
+    "title" : "Title",
+    "city" : "City",
+    "street" : "Street",
+
+    "personal" : "Personal",
+    "contactability" : "Contactability"
+  },
+  "static": {
+    "previous" : "previous",
+    "next" : "next",
+    "success" : "Success !! You're registration is done !!"
+  }
+}
